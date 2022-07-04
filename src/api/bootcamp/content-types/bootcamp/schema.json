@@ -37,7 +37,8 @@
       "enum": [
         "Transfer",
         "Cash",
-        "Paypal"
+        "Paypal",
+        "Other"
       ]
     },
     "programs": {
