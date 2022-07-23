@@ -23,6 +23,10 @@
       "relation": "manyToOne",
       "target": "api::bootcamp.bootcamp",
       "inversedBy": "comments"
+    },
+    "calification": {
+      "type": "boolean",
+      "required": false
     }
   }
 }
